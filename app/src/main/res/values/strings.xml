@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="imagen4_content_description">Esta es la imagen 4</string>
+    <string name="imagen5_content_description">Esta es la quinta imagen</string>
+    <string name="imagen3_content_description">Esta es la tercera imagen</string>
+    <string name="imagen2_content_description">Esta es la segunda imagen</string>
+    <string name="obra_select">Primera obra</string>
+    <string name="obra_squeeze">Segunda obra</string>
+    <string name="pasar">pasar</string>
+    <string name="anterior">anterior</string>
+    <string name="siguiente">siguiente</string>
+    <string name="esta_es_mi_galeria_de_arte">Esta es mi galeria de arte</string>
+</resources>
